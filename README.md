@@ -6,4 +6,6 @@ es un software que toma calificaciones de asignaturas de alumnos desde un archiv
 para que el software funcione el computador tiene que tener java instalado
 el archivo xlsx con las calificaciones debe estar en la carpeta que contiene el software
 
-el zip proveído trae todos los archivos necesarios  listos para ser ejecutados 
+el zip proveído trae todos los archivos necesarios  listos para ser ejecutados. 
+
+Si desea ver el código, todos los archivos dentro de la carpeta "SistemaCalificaciones" son los que componen el software y son los mismos que están dentro del zip.
