@@ -8,4 +8,4 @@ el archivo xlsx con las calificaciones debe estar en la carpeta que contiene el 
 
 el zip proveído trae todos los archivos necesarios  listos para ser ejecutados. 
 
-Si desea ver el código, todos los archivos dentro de la carpeta "SistemaCalificaciones" son los que componen el software y son los mismos que están dentro del zip.
+Si desea ver el código, puede encontrar todos los archivos que componen el software dentro de la carpeta "SistemaCalificaciones" que son los mismos que están dentro del zip.
